@@ -42,7 +42,7 @@ RUN set -xueo pipefail && \
   tar xzfvp $f && \
   installPath=${TRUESTUDIO_INSTALL_PATH} && \
   scriptPath=$(basename ${TRUESTUDIO_INSTALL_PATH})_installer && \
-  cp ${scriptPath} /ATOLLIC-END-USER-SOFTWARE-LICENSE-AGREEMENT && \
+  cp ${scriptPath}/license.txt /ATOLLIC-END-USER-SOFTWARE-LICENSE-AGREEMENT && \
   mkdir -p ${installPath} && \
   tar xzvfp ${scriptPath}/install.data -C ${installPath} && \
   rm $f && rm -r ${scriptPath} && \
