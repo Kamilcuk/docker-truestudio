@@ -1,0 +1,108 @@
+ATOLLIC END USER SOFTWARE LICENSE AGREEMENT
+
+August, 2016 
+
+Atollic AB, Reg. No. 556615-0172, a limited liability company duly incorporated and organised under the laws of Sweden and having its principal office at Science Park Jönköping, Gjuterigatan 7, SE-553 18 Jönköping, Sweden (“Atollic”) hereby licenses Atollic TrueSTUDIO Lite or Atollic TrueSTUDIO Pro and related documentation and materials (the “Software”, as further defined in Section 1 below) to you (or the company for which you act, as applicable) (the “Licensee”) subject to the Licensee’s acceptance and full compliance of the terms and conditions of this license agreement (“Agreement”)
+Carefully read the terms set forth below. The terms will, if you wish to use the Software provided by Atollic, form a legally binding agreement between Atollic and the Licensee. By installing and using the Software, the Licensee confirms that the Licensee has read and understood the terms of this Agreement and agrees to and is thereby legally bound by the terms and conditions set forth in this agreement. If the terms are not accepted, do not install or use the Software.
+
+1.	DEFINITIONS
+	The following terms and expressions shall, to the extent the context does not require otherwise, have the following meaning;
+	“Agreement” means this Software License Agreement including any and all appendices hereto.
+	“Effective Date” means the date from which the License becomes effective according to the Agreement.
+	“License” means the license granted by Atollic pursuant to Section 2.
+	“License Fee” means the compensation or other fees to be paid by Licensee to Atollic in consideration of this License.	
+	“Software” means the Atollic TrueSTUDIO Lite or Atollic TrueSTUDIO Pro or software product in machine-readable form as made available under this License, including any related documentation and materials.
+	“Subscription License” means all forms of License other than the fully paid-up perpetual License, e.g. a Subscription License may be a form of software rental and paid by way of monthly or yearly License Fee payments.  
+	“Third Party Software” means software provided by third parties that may be included, provided with or otherwise used together with the Software as specified in Section 2.2.
+
+2.	GRANT OF LICENSE
+
+2.1	Provided that the Licensee Fee (if applicable) is duly paid by the Licensee and subject to the terms and conditions of this Agreement, Atollic hereby grants to the Licensee a perpetual (save in case of a Subscription License where the License terminates automatically in case of non- or delayed payment of the monthly or yearly fee and as set forth in Section 11.2), a world-wide non-exclusive, non-transferable, non-assignable, non-sublicensable limited license to install and use the Software in object code format to an agreed specified number of users (the “License”). 
+
+2.2	The Software contains certain Third Party Software. Such Third Party Software is provided solely under the terms and conditions provided by its respective supplier. Specifically, the Software utilizes the Eclipse framework. The Licensee may, if the Software supports such functionality, add additional Third Party Software not provided together with the Software as plug-ins in the Eclipse framework. Any such additional Third Party Software is licensed solely on the terms and conditions provided by its respective suppliers. Atollic does not support or endorse the use of any Third Party Software together with the Software and assumes no liability what so ever for any errors in the Software or any other liability what so ever that may occur as a result of the use of any Third Party Software. Further information can be found at www.atollic.com/opensource.
+
+2.3	The Licensee has the rights to create proprietary applications and libraries with the Software even if the Software contains some Third Party Software that is “free software” or “open source software”. The Third Party Software does not impose any obligation on the Licensee to expose the source code of the Licensees proprietary applications and libraries created with the Software.
+
+3.	LICENSE RESTRICTIONS
+
+3.1	No other rights than those expressly set forth in Section 2 above are granted hereunder. The 	Licensee may under no circumstances use the Software including, but without limitation, any delivered source code of the Software for any other purposes than those set forth in Section 2 above.
+
+3.2	Licensee may not sub-license, rent or lend the software or otherwise permit anyone other than as set forth in Section 2.1, either directly or indirectly, for payment or otherwise, to make use of or otherwise dispose of the Software.
+
+3.3	Licensee undertakes not to (nor permit anyone else to) alter, modify, decompile, reverse engineer whole or any part of the Software in any way whatsoever, unless to the extent permitted under mandatory law and this Agreement.
+
+3.4	Licensee may not (nor allow anyone else to do so) copy, transfer or otherwise use the Software, wholly or partly, otherwise than as specified in this Agreement.
+
+4.	NO OR LIMITED SUPPORT
+This Agreement does not include any support services what so ever with regard to TrueSTUDIO Lite. For all other Software that is fully paid-up, support is included in the License Fee for a period of 12 months from first License Fee payment. In case of Subscription License, support is provided as long as License Fees are paid.
+
+5.	LIMITED WARRANTY
+
+5.1	Atollic warrants and represents, except for Atollic TrueSTUDIO Lite, that the Software and the media on which it is delivered is, for a period of three (3) months from delivery, free from (i) any material errors or deviations from its specifications, and (ii) material defects in workmanship. Should any such defects, errors or deviations be reported to Atollic by the Licensee within the above period of three (3) months, Atollic will, in Atollics discretion and to the exclusion of all other remedies, either (i) replace the Software or media on which it was delivered, or (ii) use its commercially reasonable efforts to correct such error or deviation without unreasonable delay.
+
+5.2	Save and except for what is set forth in Section 5.1 above, the Software is made available to Licensee on an “as is” basis. Atollic and its suppliers make no representations or warranties of any kind whether express or implied (either in fact or by operation of law) with respect to the Software. Atollic and its suppliers expressly disclaim all other warranties or conditions of title, non-infringement, merchantability or fitness for a particular purpose. Atollic makes no representations concerning the quality of the software and does not promise that the software will be error free or that it will operate without interruption.
+
+5.3	This Section 5 shall be enforceable to the maximum extent permitted by applicable law.
+
+6.	INTELLECTUAL PROPERTY RIGHTS
+
+6.1	Atollic or its licensors (as applicable) has and will retain all ownership rights in or relating to the Software and all related intellectual property rights, including without limitation all copyrights and copyright protected materials and neighbouring rights including, but not limited to, database rights, patents and patentable inventions, design rights, know how (whether such know how is in itself patentable or not), trade secrets, registered or unregistered trademarks, service marks, related goodwill, any applications in respect of the foregoing (if applicable) and any and all other rights in any country as well as any Confidential Information and/or proprietary information. The Licensee will have no rights in and to the Software except as explicitly stated in this Agreement. Nothing in this Agreement shall be construed to convey any title or ownership rights in the Software or any related intellectual property rights or other rights to the Licensee. The Licensee is aware of and acknowledges that Atollic (and/or its licensors, as applicable) shall retain all ownership of any intellectual property rights in and to the Software, and components thereof, in whole or in part and in any form.
+
+6.2	Without limiting the generality of Section 5.2 above, Atollic warrants that, to the best of Atollic’s knowledge, it is the owner or licensee of all intellectual property rights relating to the Software and has the full power and right to license the Software to the Licensee in accordance with this Agreement.
+
+6.3	Atollic agrees to indemnify and hold harmless Licensee from and against any and all claims, losses, costs, liabilities, and expenses arising as a result of or in connection with Atollic’s breach of Section 6.2 provided that Atollic is given complete control of such claim, that Licensee does not prejudice Atollic’s’ defence of such claim, that Licensee gives Atollic all reasonable assistance with such claim at the cost of Atollic and that the claim does not arise as a result of Licensee’s use of the Software in combination with any equipment not supplied or approved by Atollic or the use of the Software in conflict with the Agreement.
+
+6.4	In the event of a breach of Section 6.2, Atollic shall further use its commercial best efforts to either (i) replace or modify the infringing part of the Software or (ii) obtain a license from the infringed party, permitting the continued use of the Software. In the event Atollic considers, at its sole discretion, that none of the above alternatives is possible at a reasonable cost to Atollic, then Licensee shall be obliged to stop using the Software (whereupon the Agreement shall be considered as terminated with immediate effect) and the Licensee will in such case as full and final compensation obtain a full refund of the price actually paid for the Software.
+
+7.	EXPORT CONTROLS
+	Licensee acknowledges and agrees no technical information furnished hereunder nor any direct product thereof is intended to or will be, exported or re-exported directly or indirectly to any destination restricted or prohibited by export control regulations of Sweden, Japan, EU or U.S. Export Administration Regulations, without authorization from the appropriate governmental authorities. Licensee agrees not to download any Software or related content or services from or otherwise export or re-export into (or to a national or resident of) any other country, which is restricted or prohibited by such export control regulations. In addition, the Parties agree that no technology furnished to the other will be used for any purpose to develop and/or manufacture nuclear, chemical, biological weapons and/or missiles (hereinafter “Weapons of Mass Destruction”). Each Party further agrees that it will not sell semiconductor products using technology received from the other party hereunder, to any third party if it knows that the end-user of such products will use them for the development and/or manufacture of Weapons of Mass Destruction. By downloading or using the Software or any related content or services, Licensee agrees to the foregoing and Licensee represents and warrants that Licensee is not located in, under the control of, or a national or resident of any such country or on any such list.
+
+8.	LIABILITY
+
+8.1	Licensee shall be responsible for its activities related to the use of the Software. Licensee undertakes to indemnify and hold Atollic harmless from any liability inflicted upon or incurred by Atollic, resulting from any unauthorised use of the Software thereof by Licensee or by a third party who has obtained, lawfully or unlawfully, the Software or copies thereof from Licensee, including, but not limited to, claims from third parties, damages, lost profits and additional license fees for Atollic or other costs, including reasonable attorney’s fees.
+
+8.2	Notwithstanding anything to the contrary set out elsewhere in this Agreement, the following shall apply with regard to Atollic’s’ liability under this Agreement;
+
+(a)	TO THE EXTENT ALLOWED BY APPLICABLE LAW, IN NO EVENT SHALL ATOLLIC BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF BUSINESS, LOSS OF USE OR DATA, INTERRUPTION OF BUSINESS, OR FOR ANY DIRECT, ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, EVEN IF ATOLLIC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Further, the liability of Atollic for any and all causes with respect to the Software, breach of contract, warranty or otherwise, shall in aggregate not exceed the License Fee actually paid to Atollic, unless such liability has been caused by any grossly negligent act or omission or wilful misconduct of Atollic.
+
+(b)	In no event will Atollic be liable for any claim against Licensee by any third party as a result of the Licensee’s use of the Software.
+
+(c)	High Risk Activities. LICENSEE ACKNOWLEDGES AND AGREES THAT THE ATOLLIC PROPRIETARY SOFTWARE IS NOT DESIGNED OR APPROVED FOR ANY PRODUCTS THAT ARE USED OR DESIGNED TO BE USED IN CONNECTION WITH ANY ACTIVITIES WHERE THE FAILURE OF SUCH PRODUCTS COULD REASONABLY BE EXPECTED TO RESULT IN DEATH, BODILY INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH RISK ACTIVITIES"). LICENSEE WILL NOT INCORPORATE (WITHOUT THE EXPRESS PRIOR WRITTEN APPROVAL OF ATOLLIC) ANY ATOLLIC PROPRIETARY SOFTWARE INTO ANY SUCH PRODUCTS. HIGH RISK ACTIVITIES INCLUDE, WITHOUT LIMITATION, THE OPERATION OF NUCLEAR FACILITIES OR OTHER NUCLEAR APPLICATIONS, AVIONICS AND OTHER AIRCRAFT NAVIGATION AND COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, MEDICAL APPLICATIONS (INCLUDING, WITHOUT LIMITATION, LIFE SUPPORT SYSTEMS AND OTHER MEDICAL EQUIPMENT), AND WEAPONS SYSTEMS. IN NO EVENT WILL ATOLLIC HAVE ANY LIABILITY TO LICENSEE OR ANY THIRD PARTY ARISING OUT OF OR RELATED TO ANY USE OF ATOLLIC PROPRIETARY SOFTWARE IN CONNECTION WITH HIGH RISK ACTIVITIES, AND ATOLLIC HEREBY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR ANY HIGH RISK ACTIVITIES. LICENSEE WILL NOT DISTRIBUTE ANY ATOLLIC PROPRIETARY SOFTWARE TO THIRD PARTIES THAT LICENSEE KNOWS OR SHOULD KNOW WILL USE SUCH SOFTWARE, OR ANY ATOLLIC PRODUCTS IN WHICH THEY ARE CONTAINED, FOR ANY HIGH RISK ACTIVITIES.
+
+(d)	The Parties acknowledge that the limitations and exclusions of liability are reasonable in the context of this Agreement and, in particular, recognise that the License Fee has been agreed on the basis of the limitations and exclusions of liability set out herein.
+
+9.	FORCE MAJEURE
+Atollic shall not be liable for any delay in performing its obligations hereunder if such delay is caused by circumstances beyond its reasonable control. The performance of Atollic’s’ obligations shall be suspended during the period that the said circumstances persist and Atollic shall be granted an extension of time for performance equal to the period of the delay.
+
+10.	CONFIDENTIALITY 
+
+10.1	Licensee undertakes to treat as confidential and not disclose any information contained or embodied in the Software and any material provided by Atollic (hereinafter collectively referred to as the “Information”) to any third party or use such Information for any other purpose than for the due performance of this Agreement, provided that this Section 9 shall not extend to any information which was rightfully in the possession of Licensee prior to the commencement of the negotiations leading to the Agreement or which is already public knowledge or becomes so at a future date (otherwise than as a result of a breach of this Section).
+
+10.2	Licensee shall not without the prior written consent of Atollic divulge any part of the Information to any person except to (i) Licensee’s employees and third party consultants on a strict need to know basis, (ii) Licensee’s auditors and any other persons or bodies having a right, duty or obligation to know the business of Licensee and then only in pursuance of such right, duty or obligation, and (iii) any person who is from time to time appointed by Licensee to maintain any equipment on which the Software is being used (in accordance with the terms of the License) and then only to the extent necessary to enable such person properly to maintain such equipment.
+
+10.3	Licensee undertakes to ensure that the persons and bodies mentioned in Section 9.2 are made aware prior to the disclosure of any part of the Information that the same is confidential and that they owe a duty of confidence to Atollic.
+
+11.	TERM, TERMINATION AND EFFECTS OF TERMINATION
+
+11.1	The License shall commence upon the installation of the Software by the Licensee (the “Effective Date”) and shall thereafter remain effective perpetually (save in case of a Subscription License where the License terminates automatically in case of non- or delayed payment of the monthly fee) unless terminated in accordance with Section 11.2 below.
+
+11.2	Either Party may terminate this Agreement forthwith on giving notice in writing to the other party if the first party (i) commits a material breach of this Agreement and (in the case of a breach capable of being remedied) shall have failed, within thirty (30) days after the receipt of a request in writing from the other party to do so, to remedy the breach (such request is to contain a warning of such Party’s intention to terminate the Agreement); or (ii) becomes insolvent or starts negotiations about composition with its creditors or a petition in bankruptcy is filed by it or it makes an assignment for the benefit of its creditors. The termination right provided for in this Section 11.2 is also applicable to a Subscription License.
+
+11.3	Forthwith upon the termination of the Agreement, Licensee shall cease all use of the Software and the source code, if requested by Atollic, cause all copies of the Software and the source code to be returned to Atollic or destroyed and certify in writing to Atollic that the same has been done.
+
+11.4	Any termination of the Agreement (for any reason) shall not affect any accrued rights or liabilities of either Party nor shall it affect the coming into force or the continuance in force of Sections 3, 5, 6 ,7 ,8 ,9 ,10, 11.4, 12 and 15 hereof.
+
+12.	ASSIGNMENT
+Licensee shall not be entitled to assign, sub-license or otherwise transfer its rights and obligations under the Agreement, whether in whole or in part without the prior written consent of Atollic. Atollic shall be entitled to assign the Agreement and all of its rights and obligations hereunder to any company which is from time to time a holding company or a subsidiary of Atollic or a subsidiary of any such holding company. Further, in the event of a transfer of Atollic’s’ business relating to the Software is transferred to a third party (the “Acquirer”), Atollic may, simultaneously and together with such transfer and without the consent of Licensee, assign its rights and obligations under the Agreement to the Acquirer of such business.
+
+13.	WAIVER
+The failure of either Party hereto to insist upon the strict adherence to any term of the Agreement on any occasion shall not be considered as a waiver of any right hereunder nor shall it deprive that party of the right to insist upon the strict adherence to that term or any other term of the Agreement at some other time.
+
+14.	ENTIRE AGREEMENT, EXCLUSION OF WARRANTIES
+The Agreement supersedes any and all other agreements, oral or written, between the Parties hereto with respect to the subject matter hereof. Unless otherwise expressly set out in the Agreement, all liability for representations and warranties (whether written or oral) made prior to the date hereof are hereby excluded (except for fraudulent misrepresentations) and all implied warranties are to the maximum extent permitted by law hereby excluded.
+
+15.	GOVERNING LAW AND ARBITRATION
+
+15.1	The Agreement shall be governed by, and construed and enforced in accordance with the substantive laws of Sweden without regard to its principles of conflicts of laws or the United Nations Convention on the International Sale of Goods.
+
+15.2	Any and all dispute, controversy or claim arising out of or in connection with this Agreement, or the breach, termination or invalidity thereof, shall be finally settled by arbitration administered by the Arbitration Institute of the Stockholm Chamber of Commerce (the SCC Institute). The Rules for Expedited Arbitrations of the Arbitration Institute of the Stockholm Chamber of Commerce shall apply, unless the SCC Institute, taking into account the complexity of the case, the amount in dispute and other circumstances, determines, in its discretion, that the Arbitration Rules of the Arbitration Institute of the Stockholm Chamber of Commerce shall apply. In the latter case, the SCC Institute shall also decide whether the arbitral tribunal shall be composed of one or three arbitrators. The seat of the arbitration shall be Stockholm, Sweden, and the language of the proceedings shall be Swedish or English as determined by the Parties (or, if the Parties can not agree, by the Arbitrators).The foregoing shall not restrict Atollic from going to any court of competent jurisdiction in any location in order to seek payment from Licensee of an amount which is undisputed and due for payment.
