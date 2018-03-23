@@ -10,8 +10,8 @@ RUN set -xueo pipefail && \
   echo '- SUCCESS prepare ------------------'
 
 # some const dependent on version
-ENV TRUESTUDIO_VER x86_64_v8.0.0_20170621-1519
-ENV TRUESTUDIO_URL http://download.atollic.com/TrueSTUDIO/installers/Atollic_TrueSTUDIO_for_ARM_linux_${TRUESTUDIO_VER}.tar.gz
+ENV TRUESTUDIO_VER x86_64_v9.0.0_20180117-1023
+ENV TRUESTUDIO_URL http://download.atollic.com/TrueSTUDIO/installers/Atollic_TrueSTUDIO_for_STM32_linux_${TRUESTUDIO_VER}.tar.gz
 
 # download in one RUN
 RUN set -xueo pipefail && \
@@ -23,7 +23,7 @@ RUN set -xueo pipefail && \
   rm $(basename ${TRUESTUDIO_URL}.MD5) && \
   echo '- SUCCESS download ----------------------------'
 
-ENV TRUESTUDIO_INSTALL_PATH /opt/Atollic_TrueSTUDIO_for_ARM_8.0.0
+ENV TRUESTUDIO_INSTALL_PATH /opt/Atollic_TrueSTUDIO_for_STM32_9.0.0
 
 # create links in ONE RUN
 RUN set -xueo pipefail && \
